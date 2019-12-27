@@ -1,0 +1,6 @@
+cat.jpg
+saída.png
+convolucao 3 3
+-1 -1 -1
+-1 8 -1
+-1 -1 -1
